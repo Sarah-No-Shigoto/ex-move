@@ -1,0 +1,27 @@
+body {
+	margin-top: 0;
+}
+
+.container {
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	background-color: rgba(209, 132, 210, .5);
+}
+
+p {
+	display: inline-block;
+	margin: 10px;
+}
+
+form {
+	margin-bottom: 50px;
+}
+
+.translation {
+	position: relative;
+}
+
+img {
+	position: relative;
+}
